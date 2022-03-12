@@ -21,5 +21,4 @@ In this project, you will make use of Python to explore data related to bike sha
    * washington.csv
 
 ###Credits
-
-
+* The original repo this repo is forked from can be found here: [link](https://github.com/udacity/pdsnd_github.git "Git")

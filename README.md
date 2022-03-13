@@ -22,4 +22,4 @@ In this project, you will make use of Python to explore data related to bike sha
 
 ### Credits
 * Original repository can be found at: [link](https://github.com/udacity/pdsnd_github.git "Git")
-* Any doubts were cleared at: [link](www.stackoverflow.com)
+* Any doubts were cleared at: [link](https://stackoverflow.com/)
